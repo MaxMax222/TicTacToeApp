@@ -5,7 +5,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="@android:color/black">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -15,15 +16,27 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_weight="1"/>
+            android:layout_weight="1"
+            android:layout_marginRight="10dp"
+            
+            android:backgroundTint="@android:color/white"
+        />
         <Button
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_weight="1"/>
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:backgroundTint="@android:color/white"
+            />
         <Button
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_weight="1"/>
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            
+            android:backgroundTint="@android:color/white"
+        />
     </LinearLayout>
     <LinearLayout
         android:layout_width="match_parent"
@@ -33,15 +46,26 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_weight="1"/>
+            android:layout_weight="1"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="@android:color/white"
+            />
         <Button
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_weight="1"/>
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:backgroundTint="@android:color/white"
+            />
         <Button
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_weight="1"/>
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            
+            android:backgroundTint="@android:color/white"
+            />
     </LinearLayout>
 
     <LinearLayout
@@ -52,15 +76,25 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_weight="1"/>
+            android:layout_weight="1"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="@android:color/white"
+            />
         <Button
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_weight="1"/>
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:backgroundTint="@android:color/white"
+            />
         <Button
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_weight="1"/>
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:backgroundTint="@android:color/white"
+            />
     </LinearLayout>
 
 </LinearLayout>
