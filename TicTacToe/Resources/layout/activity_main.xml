@@ -18,7 +18,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:layout_marginRight="10dp"
-            android:backgroundTint="@android:color/white"
+            android:backgroundTint="@color/orangeDeep"
             android:id="@+id/topLeft"
         />
         <Button
@@ -27,7 +27,7 @@
             android:layout_weight="1"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:backgroundTint="@android:color/white"
+            android:backgroundTint="@color/orangeDeep"
             android:id="@+id/topMid"
             />
         <Button
@@ -35,7 +35,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:layout_marginLeft="10dp"
-            android:backgroundTint="@android:color/white"
+            android:backgroundTint="@color/orangeDeep"
             android:id="@+id/topRight"
         />
     </LinearLayout>
@@ -49,7 +49,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:layout_marginRight="10dp"
-            android:backgroundTint="@android:color/white"
+            android:backgroundTint="@color/orangeDeep"
             android:id="@+id/MidLeft"
             />
         <Button
@@ -58,7 +58,7 @@
             android:layout_weight="1"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:backgroundTint="@android:color/white"
+            android:backgroundTint="@color/orangeDeep"
             android:id="@+id/mid"
         />
         <Button
@@ -66,7 +66,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:layout_marginLeft="10dp"
-            android:backgroundTint="@android:color/white"
+            android:backgroundTint="@color/orangeDeep"
             android:id="@+id/midRight"
             />
     </LinearLayout>
@@ -81,7 +81,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:layout_marginRight="10dp"
-            android:backgroundTint="@android:color/white"
+            android:backgroundTint="@color/orangeDeep"
             android:id="@+id/bottomLeft"
             />
         <Button
@@ -90,7 +90,7 @@
             android:layout_weight="1"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:backgroundTint="@android:color/white"
+            android:backgroundTint="@color/orangeDeep"
             android:id="@+id/bottomMid"
             />
         <Button
@@ -98,7 +98,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:layout_marginLeft="10dp"
-            android:backgroundTint="@android:color/white"
+            android:backgroundTint="@color/orangeDeep"
             android:id="@+id/botttomRight"
             />
     </LinearLayout>

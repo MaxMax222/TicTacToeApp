@@ -303,5 +303,4 @@ C:\Users\zrvma\source\repos\TicTacToe\TicTacToe\obj\Debug\110\stamp\_GenerateJav
 C:\Users\zrvma\source\repos\TicTacToe\TicTacToe\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\zrvma\source\repos\TicTacToe\TicTacToe\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\zrvma\source\repos\TicTacToe\TicTacToe\obj\Debug\110\res\layout\homepage.xml
-C:\Users\zrvma\source\repos\TicTacToe\TicTacToe\obj\Debug\110\TicTacToe.csproj.AssemblyReference.cache
 C:\Users\zrvma\source\repos\TicTacToe\TicTacToe\obj\Debug\110\android\src\crc64399ccd3cf0bf69b5\HomeCode.java
